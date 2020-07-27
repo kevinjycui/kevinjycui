@@ -37,7 +37,6 @@
       <b>Practice Bot</b>
     </a>
   </p>
-  <br>
   </samp>
 </details>
 <br>
