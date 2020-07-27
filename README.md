@@ -13,9 +13,8 @@
   </samp>
 </p>
 <details align="center">
-   <summary> <b> <samp> Who? </samp></b></summary>
+   <summary> <samp>&#9776; Contact me ¯\_(ツ)_/¯</samp></summary>
    <samp>
-      <b><h2 style="color: #fc6203">M Y &nbsp; S T U F F</h2> </b>
       <img width="150" height="150" src="demon_laughing.gif"></img><br>
       <a href="https://kevincui.dev">
         KEVINCUI.DEV  
