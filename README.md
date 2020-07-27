@@ -1,4 +1,4 @@
-<h3 align="center">Greetings! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin</a></b></h3>
+<h3 align="center">Greetings! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin Cui</a></b></h3>
 <p align="center">
   •╔════◄░░░░░░►════╗•
   <br>
@@ -12,3 +12,34 @@
     「 Currently interning @ <b>RBC Royal Bank of Canada</b> 」<br>
   </samp>
 </p>
+<details align="center">
+   <summary> <b> <samp> Who? </samp></b></summary>
+   <samp>
+      <b><h2 style="color: #fc6203">M Y &nbsp; S T U F F</h2> </b>
+      <a href="https://kevincui.dev">
+        KEVINCUI.DEV  
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/kevin-jy-cui/">
+        <img src="https://img.shields.io/badge/-Kevin_Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-jy-cui"></img>
+      </a>
+      <a href="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
+        <img src="https://img.shields.io/badge/-Kevin_Cui-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
+      </a>
+      <br><br>
+  <p>
+    Current project: 
+    <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/kevinjycui/Practice-Bot">
+      <img src="https://raw.githubusercontent.com/kevinjycui/Practice-Bot/master/logo.png" width="20" height="20" ></img>
+      <b>Practice Bot</b>
+    </a>
+  </p>
+  </samp>
+</details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
+  </p>
+</samp>
