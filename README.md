@@ -28,6 +28,9 @@
       </a>
       <br><br>
   <p>
+    Also known as <b>ManchurioX</b> on <a href="https://dmoj.ca/user/ManchurioX">DMOJ</a> and <a href="https://keybase.io/manchuriox/sigs/39eeed2172a6094b556042eec257071c22d6953ae4576d1995315ac3774404500f">Keybase</a>
+  </p>
+  <p>
     Current project: 
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/kevinjycui/Practice-Bot">
       <img src="https://raw.githubusercontent.com/kevinjycui/Practice-Bot/master/logo.png" width="20" height="20" ></img>
