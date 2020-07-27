@@ -4,9 +4,8 @@
   <br>
   <img width="200" height="200" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/guy_smiling.gif">
   <br>
-  •╚════◄░░░░░░►════╝ •
+  •╚════◄░《崔骏扬》░►════╝ •
   <br>
-  <b align="center">•✠-~~===Я우リ우リ우リ《崔骏扬》い우い우い우R===~~-✠•</b>
   <samp>
     <br>「 Computer Science Undergraduate Student @ 🏫 <b>McGill University</b> 」<br>
     「 Currently interning @ 🏦 <b>RBC Royal Bank of Canada</b> 」<br>
