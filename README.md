@@ -27,9 +27,9 @@
       </a><br>
     Also known as <b>ManchurioX</b> on <a rel="nofollow noopener noreferrer" target="_blank" href="https://dmoj.ca/user/ManchurioX"><img src="https://raw.githubusercontent.com/DMOJ/online-judge/master/logo.png" width="20" height="20" ></img> DMOJ</a> and <a rel="nofollow noopener noreferrer" target="_blank" href="https://keybase.io/manchuriox/sigs/39eeed2172a6094b556042eec257071c22d6953ae4576d1995315ac3774404500f">Keybase</a><br><br>
       <a href="https://github.com/kevinjycui?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/kevinjycui?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+      <a href="https://github.com/kevinjycui?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=javascript" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="https://github.com/kevinjycui?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+      <a href="https://github.com/kevinjycui?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square"></a>
   <br>
