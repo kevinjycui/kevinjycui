@@ -7,7 +7,7 @@
   •╚════◄░《崔骏扬》░►════╝ •
   <br>
   <samp>
-    「 Computer Science Undergraduate Student @ 🏫 <b>McGill University</b> 」<br>
+    「 Computer Science Undergraduate Student @ 🐦 <b>McGill University</b> 」<br>
     「 Currently interning @ 🏦 <b>RBC Royal Bank of Canada</b> 」<br>
   </samp>
 </p>
