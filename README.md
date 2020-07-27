@@ -1,6 +1,6 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin Cui</a></b></samp></h3>
 <p align="center">
-  •╔════◄░░░░░░►════╗•
+  •╔════◄░░░░░░░►════╗•
   <br>
   <img width="200" height="200" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/guy_smiling.gif">
   <br>
