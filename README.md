@@ -12,7 +12,7 @@
   </samp>
 </p>
 <details align="center">
-   <summary> <samp>&#9776; Contact me ¯\_(ツ)_/¯</samp></summary>
+   <summary> <samp>&#9776; Details ¯\_(ツ)_/¯</samp></summary>
    <p align="center">
      <samp>
         <img width="150" height="150" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/demon_laughing.gif"></img><br>
