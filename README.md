@@ -20,10 +20,10 @@
       </a>
       &nbsp;
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/kevin-jy-cui/">
-        <img src="https://img.shields.io/badge/-Kevin_Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-jy-cui"></img>
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-jy-cui"></img>
       </a>
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
-        <img src="https://img.shields.io/badge/-Kevin_Cui-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
+        <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
       </a>
   <br>
   <p>
