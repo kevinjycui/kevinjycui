@@ -16,6 +16,7 @@
    <summary> <b> <samp> Who? </samp></b></summary>
    <samp>
       <b><h2 style="color: #fc6203">M Y &nbsp; S T U F F</h2> </b>
+      <img width="150" height="150" src="demon_laughing.gif"></img><br>
       <a href="https://kevincui.dev">
         KEVINCUI.DEV  
       </a>
@@ -26,7 +27,7 @@
       <a href="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
         <img src="https://img.shields.io/badge/-Kevin_Cui-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
       </a>
-      <br><br>
+  <br>
   <p>
     Also known as <b>ManchurioX</b> on <a href="https://dmoj.ca/user/ManchurioX">DMOJ</a> and <a href="https://keybase.io/manchuriox/sigs/39eeed2172a6094b556042eec257071c22d6953ae4576d1995315ac3774404500f">Keybase</a>
   </p>
