@@ -19,15 +19,18 @@
         KEVINCUI.DEV  
       </a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/kevin-jy-cui/">
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/kevin-jy-cui/">
         <img src="https://img.shields.io/badge/-Kevin_Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-jy-cui"></img>
       </a>
-      <a href="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
         <img src="https://img.shields.io/badge/-Kevin_Cui-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCRb6Mw3fJ6OFzp-cB9X29aA">
       </a>
   <br>
   <p>
-    Also known as <b>ManchurioX</b> on <a href="https://dmoj.ca/user/ManchurioX"><img src="https://raw.githubusercontent.com/DMOJ/online-judge/master/logo.png" width="20" height="20" ></img> DMOJ</a> and <a href="https://keybase.io/manchuriox/sigs/39eeed2172a6094b556042eec257071c22d6953ae4576d1995315ac3774404500f">Keybase</a>
+    Also known as <b>ManchurioX</b> on <a rel="nofollow noopener noreferrer" target="_blank" href="https://dmoj.ca/user/ManchurioX"><img src="https://raw.githubusercontent.com/DMOJ/online-judge/master/logo.png" width="20" height="20" ></img> DMOJ</a> and <a rel="nofollow noopener noreferrer" target="_blank" href="https://keybase.io/manchuriox/sigs/39eeed2172a6094b556042eec257071c22d6953ae4576d1995315ac3774404500f">Keybase</a>
+  </p>
+  <p>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin%20Cui%20General%20Resume.pdf">📄 Résumé</a>
   </p>
   <p>
     Current project: 
