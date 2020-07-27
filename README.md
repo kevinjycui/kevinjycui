@@ -36,7 +36,7 @@
     Current project: 
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/kevinjycui/Practice-Bot">
       <img src="https://raw.githubusercontent.com/kevinjycui/Practice-Bot/master/logo.png" width="20" height="20" ></img>
-      <b>Practice Bot</b>
+      Practice Bot
     </a>
   </p>
   </samp>
