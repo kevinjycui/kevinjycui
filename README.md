@@ -15,7 +15,7 @@
    <summary> <samp>&#9776; Contact me ¯\_(ツ)_/¯</samp></summary>
    <samp>
       <img width="150" height="150" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/demon_laughing.gif"></img><br>
-      <a href="https://kevincui.dev">
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">
         KEVINCUI.DEV  
       </a>
       &nbsp;
