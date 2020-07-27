@@ -2,7 +2,7 @@
 <p align="center">
   •╔════◄░░░░░░►════╗•
   <br>
-  <img width="200" height="200" src="guy_smiling.gif">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/guy_smiling.gif">
   <br>
   •╚════◄░░░░░░►════╝ •
   <br>
@@ -15,7 +15,7 @@
 <details align="center">
    <summary> <samp>&#9776; Contact me ¯\_(ツ)_/¯</samp></summary>
    <samp>
-      <img width="150" height="150" src="demon_laughing.gif"></img><br>
+      <img width="150" height="150" src="https://raw.githubusercontent.com/kevinjycui/kevinjycui/master/demon_laughing.gif"></img><br>
       <a href="https://kevincui.dev">
         KEVINCUI.DEV  
       </a>
