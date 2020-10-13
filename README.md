@@ -8,7 +8,7 @@
   <br>
   <samp>
     「 Computer Science Undergraduate Student @ 🐦 <b>McGill University</b> 」<br>
-    「 Currently interning @ 🏦 <b>RBC Royal Bank of Canada</b> 」<br>
+    「 Previously interned @ 🏦 <b>RBC Royal Bank of Canada</b> 」<br>
   </samp>
 </p>
 <details align="center">
