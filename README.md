@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin Junyang Cui</a></b></samp></h3>
 <p align="center">
-  •╚═════════◄░《崔骏扬》░►═════════╝ •
+  •╚════════◄░《崔骏扬》░►════════╝ •
   <br>
   <samp>
     「 Computer Science Undergraduate Student @ 🐦 <b>McGill University</b> 」<br>
