@@ -15,7 +15,7 @@
       <a href="https://github.com/kevinjycui?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-375eab?style=flat-square&logo=Go&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
-      <a href="https://github.com/kevinjycui?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square"></a>
+      <a href="https://github.com/kevinjycui?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kevinjycui&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin_Cui_Resume.pdf">Resumé</a><br>
