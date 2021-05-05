@@ -2,7 +2,6 @@
 <p align="center"><br>
   <samp>
     「 Computer Science Bachelor of Science Candidate @ 🐦 <b>McGill University</b> 」<br>
-    「 Previously interned @ 🏦 <b>RBC Royal Bank of Canada</b> 」<br>
   </samp>
 </p>
 <details align="center">
